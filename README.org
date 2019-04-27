@@ -17,5 +17,5 @@
 
 * Полезные материалы
 1. [[https://git-scm.com/book/en/v2][Pro Git book]]  ([[https://git-scm.com/book/ru/v2][на русском]]) - Книга об использовании системы контроля версий git.
-2. https://resilientwebdesign.com/ - Книга о веб-дизайне
+2. https://resilientwebdesign.com/ - Книга о веб-дизайне. [[https://github.com/adactio/resilientwebdesign][Исходный код]].
 3. [[http://www.csszengarden.com/][CSS Zen Garden (Дзен-сад CSS)]]. [[http://www.mezzoblue.com/zengarden/alldesigns/][Сайты-примеры]]. [[https://github.com/mezzoblue/csszengarden.com][Git-репозиторий]].
