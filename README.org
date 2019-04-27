@@ -1,0 +1,11 @@
+* Сводная таблица
+| Имя       | Репозиторий                                | Сайт     |
+|           |                                            | <8>      |
+|-----------+--------------------------------------------+----------|
+| Александр | https://github.com/Sashahop/shop           | https://sashahop.github.io/shop/ |
+| Артем     | [[https://github.com/TEMPOYDEM/Artem-shop.ru]] |          |
+| Василий   | https://github.com/XXX1268/Gallery1        | https://xxx1268.github.io/Gallery1/ |
+| Виктор    | https://github.com/vvvvbbbb/cody           | https://vvvvbbbb.github.io/cody/ |
+| Михаил    | https://github.com/monExcalibur/Elon-Musk  | https://monexcalibur.github.io/Elon-Musk/ |
+
+* Ссылки на проекты
