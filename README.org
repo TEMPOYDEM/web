@@ -1,6 +1,5 @@
 * Сводная таблица
 | Имя       | Репозиторий                                | Сайт     |
-|           |                                            | <8>      |
 |-----------+--------------------------------------------+----------|
 | Александр | https://github.com/Sashahop/shop           | https://sashahop.github.io/shop/ |
 | Артем     | [[https://github.com/TEMPOYDEM/Artem-shop.ru]] |          |
@@ -8,4 +7,15 @@
 | Виктор    | https://github.com/vvvvbbbb/cody           | https://vvvvbbbb.github.io/cody/ |
 | Михаил    | https://github.com/monExcalibur/Elon-Musk  | https://monexcalibur.github.io/Elon-Musk/ |
 
-* Ссылки на проекты
+* Используемые программы
+1. [[https://git-scm.com/download/win][git]]
+2. [[https://www.sublimetext.com/3][sublime]]
+3. [[https://www.mozilla.org/en-US/firefox/new/?xv=pre-dl&v=b][firefox]]
+
+* Используемые сервисы
+1. [[https://github.com/][GitHub]]
+
+* Полезные материалы
+1. [[https://git-scm.com/book/en/v2][Pro Git book]]  ([[https://git-scm.com/book/ru/v2][на русском]]) - Книга об использовании системы контроля версий git.
+2. https://resilientwebdesign.com/ - Книга о веб-дизайне
+3. [[http://www.csszengarden.com/][CSS Zen Garden (Дзен-сад CSS)]]. [[http://www.mezzoblue.com/zengarden/alldesigns/][Сайты-примеры]]. [[https://github.com/mezzoblue/csszengarden.com][Git-репозиторий]].
