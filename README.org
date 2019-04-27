@@ -2,7 +2,7 @@
 | Имя       | Репозиторий                                | Сайт     |
 |-----------+--------------------------------------------+----------|
 | Александр | https://github.com/Sashahop/shop           | https://sashahop.github.io/shop/ |
-| Артем     | [[https://github.com/TEMPOYDEM/Artem-shop.ru]] |          |
+| Артем     | https://github.com/TEMPOYDEM/Artem-shop.ru | https://tempoydem.github.io/Artem-shop.ru/ |
 | Василий   | https://github.com/XXX1268/Gallery1        | https://xxx1268.github.io/Gallery1/ |
 | Виктор    | https://github.com/vvvvbbbb/cody           | https://vvvvbbbb.github.io/cody/ |
 | Михаил    | https://github.com/monExcalibur/Elon-Musk  | https://monexcalibur.github.io/Elon-Musk/ |
